@@ -28,6 +28,8 @@ https://rodrigopensky.github.io/image-to-webp-converter/
 ---
 
 ## 📂 Project Structure
+
+```
 image-to-webp-converter
 │
 ├── index.html
@@ -42,6 +44,7 @@ image-to-webp-converter
 │ │
 │ └── img
 │ └── preview.png
+```
 
 ---
 
